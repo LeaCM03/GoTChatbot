@@ -1,0 +1,12 @@
+{
+    "botonic": {
+      "defaultLang": "en",
+      "langs": ["en"],
+      "routes": "src/routes.js",
+      "locales": "src/locales",
+      "webchat": {
+        "indexPath": "src/webchat/index.js"
+      }
+    }
+  }
+  
