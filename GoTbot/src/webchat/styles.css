@@ -1,0 +1,22 @@
+.botonic-webchat {
+    font-family: Arial, sans-serif;
+  }
+  
+  .botonic-webchat-header {
+    background: #79A3FE !important;
+    color: #FFFFFF !important;
+  }
+  
+  .botonic-webchat-message.botonic-from-user {
+    background: #ACC6FF !important;
+    color: #000000 !important;
+  }
+  
+  .botonic-webchat-message.botonic-from-bot {
+    background: #C5C5C5 !important;
+    color: #000000 !important;
+  }
+  
+  .botonic-webchat {
+    background: #F3F7FC !important;
+  }
