@@ -3,7 +3,7 @@ Author: Lea Cornelis Martínez
 eMail: leacormar@gmail.com
 
 **_Encountered Problems:_**
-- 1st rpoblem: Once the project has been created (botonic new ...) and executed, there should appear a very basic chatbot that answers "I don't understand" to every message. However, every time I try that the localhost page opened in my browser appears blank. If I open the console of said browser page i get an error from the node_modules directory which i have tried to fix, unsuccesfully. Therefor, instead of getting stuck with this I have decided that it would be best for me to program the required exercises first, although I have not been able to check if they work, and then use the spare time to try and fix this issue
+- 1st (main) problem: Once the project has been created (botonic new ...) and executed, there should appear a very basic chatbot that answers "I don't understand" to every message. However, every time I try that the localhost page opened in my browser appears blank. If I open the console of said browser page i get an error from the node_modules directory which i have tried to fix, unsuccesfully. Therefor, instead of getting stuck with this I have decided that it would be best for me to program the required exercises first, although I have not been able to check if they work, and then use the spare time to try and fix this issue
 - The other commits (not counting the ReadMe) have been created/written without being able to see the result. When i execute the chatBot, an empty screen appears
 
 ---------------------------------------------------------------------------------------
